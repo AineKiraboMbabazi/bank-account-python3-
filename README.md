@@ -1,7 +1,6 @@
 # challenge2Day5
 [![Build Status](https://travis-ci.org/AineKiraboMbabazi/challenge2Day5.svg?branch=master)](https://travis-ci.org/AineKiraboMbabazi/challenge2Day5)
-
-[![Coverage Status](https://coveralls.io/repos/github/AineKiraboMbabazi/challenge2Day5/badge.svg?branch=master)](https://coveralls.io/github/AineKiraboMbabazi/challenge2Day5?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/AineKiraboMbabazi/challenge2Day5/badge.svg?branch=challenge2Day5)](https://coveralls.io/github/AineKiraboMbabazi/challenge2Day5?branch=challenge2Day5)
 
 # Bank account
 Simulate a bank account supporting opening/closing, withdrawals, and deposits of money.
