@@ -3,7 +3,7 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/AineKiraboMbabazi/challenge2Day5/badge.svg?branch=master)](https://coveralls.io/github/AineKiraboMbabazi/challenge2Day5?branch=master)
 
-#Bank account#
+# Bank account
 Simulate a bank account supporting opening/closing, withdrawals, and deposits of money.
 Ignore the possibility of concurrent transactions! A bank account can be accessed in multiple ways. Clients can make deposits and withdrawals using the internet, mobile phones, etc. Shops can charge against the account.
 It should be possible to close an account; operations against a closed account must fail.
